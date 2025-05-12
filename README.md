@@ -18,7 +18,7 @@ PesaPesa is a fully functional online banking platform built with Next.js, provi
     * Zod (Form Validation)
     * Tailwind CSS
     * Shadcn UI
-    * Charts
+    * Chart.jd
 * **Backend:** Appwrite (Backend-as-a-Service)
 * **Financial Account Linking:** Plaid
 
